@@ -630,3 +630,209 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.11.08-17.08.44:909][920]LogSlate: Window 'Source Control Login' being destroyed
 [2018.11.08-17.08.50:569][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.11.08-17.08.59:616][590]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.133 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.08-17.18.59:595][561]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (14.272 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.08-17.19.33:420][693]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.08-17.19.37:486][693]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 Y:\SMART\BigBlueBoat\Houdini\Big_Blue_Boat\render\Treadmill.fbx)
+[2018.11.08-17.19.38:756][693]LogFbx: Loading FBX Scene from Y:\SMART\BigBlueBoat\Houdini\Big_Blue_Boat\render\Treadmill.fbx
+[2018.11.08-17.19.40:549][693]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-17.21.54:728][693]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.08-17.21.56:999][693]LogMaterial: Display: Missing cached shader map for material TGmet_2, compiling. 
+[2018.11.08-17.21.57:276][693]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.08-17.21.57:276][693]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.08-17.21.57:276][693]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-17.21.57:404][693]LogMaterial: Display: Missing cached shader map for material Met11, compiling. 
+[2018.11.08-17.21.57:662][693]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.08-17.21.57:662][693]LogMaterial: Display: Missing cached shader map for material PGrey_Md, compiling. 
+[2018.11.08-17.21.57:904][693]LogMaterial: Display: Missing cached shader map for material PGrey_Cl, compiling. 
+[2018.11.08-17.21.58:159][693]LogMaterial: Display: Missing cached shader map for material PBlack, compiling. 
+[2018.11.08-17.21.58:408][693]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2018.11.08-17.21.58:709][693]LogMaterial: Display: Missing cached shader map for material Metallo_RAL_7024, compiling. 
+[2018.11.08-17.21.58:842][693]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.11.08-17.21.58:987][693]LogMaterial: Display: Missing cached shader map for material Tappeto, compiling. 
+[2018.11.08-17.21.59:346][693]LogMaterial: Display: Missing cached shader map for material RAL_70242, compiling. 
+[2018.11.08-17.21.59:755][693]LogMaterial: Display: Missing cached shader map for material Schermo_Jog, compiling. 
+[2018.11.08-17.22.00:121][693]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.11.08-17.22.00:121][693]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.11.08-17.22.00:121][693]LogMaterial: Display: Missing cached shader map for material Alluminio_Sat, compiling. 
+[2018.11.08-17.22.00:467][693]LogMaterial: Display: Missing cached shader map for material RAL_7024, compiling. 
+[2018.11.08-17.22.00:832][693]LogMaterial: Display: Missing cached shader map for material trasp, compiling. 
+[2018.11.08-17.22.01:222][693]LogMaterial: Display: Missing cached shader map for material Bianco2, compiling. 
+[2018.11.08-17.22.03:004][693]LogShaderCompilers: Display: Shaders left to compile 246
+[2018.11.08-17.22.03:004][693]LogShaderCompilers: Display: Shaders left to compile 236
+[2018.11.08-17.22.03:004][693]LogShaderCompilers: Display: Shaders left to compile 226
+[2018.11.08-17.22.03:334][693]LogShaderCompilers: Display: Shaders left to compile 216
+[2018.11.08-17.22.03:334][693]LogShaderCompilers: Display: Shaders left to compile 206
+[2018.11.08-17.22.03:334][693]LogStaticMesh: Building static mesh Treadmill...
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 196
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.08-17.22.18:184][693]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.08-17.22.18:185][693]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.08-17.22.18:185][693]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.08-17.22.18:185][693]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.08-17.22.18:185][693]LogStaticMesh: Built static mesh [14.86s] /Game/Treadmill.Treadmill
+[2018.11.08-17.22.18:260][693]LogStaticMesh: Warning: Treadmill has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.08-17.22.18:260][693]LogStaticMesh: Warning: Treadmill has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.08-17.22.18:923][693]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.08-17.22.18:945][693]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.08-17.22.18:945][693]FBXImport: Warning: Treadmill has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.08-17.22.18:945][693]FBXImport: Warning: Treadmill has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.08-17.22.22:978][694]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.08-17.22.22:978][694]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.08-17.22.26:170][702]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.032
+[2018.11.08-17.22.26:249][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Treadmill] ([1] browsable assets)...
+[2018.11.08-17.22.26:298][702]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Treadmill.Treadmill]
+[2018.11.08-17.22.26:298][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Treadmill]
+[2018.11.08-17.22.26:298][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Treadmill" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Treadmill_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.27:092][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Treadmill_Auto10B8D100D476D2B26562CB7B4AA26D175.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Treadmill_Auto1.uasset'
+[2018.11.08-17.22.27:360][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TGmet_2] ([1] browsable assets)...
+[2018.11.08-17.22.27:378][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TGmet_2.TGmet_2]
+[2018.11.08-17.22.27:378][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/TGmet_2]
+[2018.11.08-17.22.27:379][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TGmet_2" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/TGmet_2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.27:559][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/TGmet_2_Auto1C5B31F014B7E271F8C36FF95A8C02E36.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/TGmet_2_Auto1.uasset'
+[2018.11.08-17.22.27:684][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Met11] ([1] browsable assets)...
+[2018.11.08-17.22.27:701][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Met11.Met11]
+[2018.11.08-17.22.27:701][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Met11]
+[2018.11.08-17.22.27:701][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Met11" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Met11_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.27:867][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Met11_Auto1B910459F47E2E921971D1E8A973508EB.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Met11_Auto1.uasset'
+[2018.11.08-17.22.28:007][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PGrey_Md] ([1] browsable assets)...
+[2018.11.08-17.22.28:028][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PGrey_Md.PGrey_Md]
+[2018.11.08-17.22.28:029][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/PGrey_Md]
+[2018.11.08-17.22.28:029][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PGrey_Md" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/PGrey_Md_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.28:208][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/PGrey_Md_Auto1D0A809864AC9F629842C3489CA420245.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/PGrey_Md_Auto1.uasset'
+[2018.11.08-17.22.28:332][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PGrey_Cl] ([1] browsable assets)...
+[2018.11.08-17.22.28:351][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PGrey_Cl.PGrey_Cl]
+[2018.11.08-17.22.28:351][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/PGrey_Cl]
+[2018.11.08-17.22.28:351][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PGrey_Cl" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/PGrey_Cl_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.28:680][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/PGrey_Cl_Auto1837158C241DF4FD801496BA615979B8B.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/PGrey_Cl_Auto1.uasset'
+[2018.11.08-17.22.28:804][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PBlack] ([1] browsable assets)...
+[2018.11.08-17.22.28:822][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PBlack.PBlack]
+[2018.11.08-17.22.28:822][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/PBlack]
+[2018.11.08-17.22.28:822][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PBlack" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/PBlack_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.28:989][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/PBlack_Auto113902B2E4069A45B5F93C582922175FD.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/PBlack_Auto1.uasset'
+[2018.11.08-17.22.29:124][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Red] ([1] browsable assets)...
+[2018.11.08-17.22.29:142][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Red.Red]
+[2018.11.08-17.22.29:142][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Red]
+[2018.11.08-17.22.29:142][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Red" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Red_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.29:318][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Red_Auto1DF62CBD8453195BF782305A509156E65.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Red_Auto1.uasset'
+[2018.11.08-17.22.29:451][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Metallo_RAL_7024] ([1] browsable assets)...
+[2018.11.08-17.22.29:468][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Metallo_RAL_7024.Metallo_RAL_7024]
+[2018.11.08-17.22.29:468][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metallo_RAL_7024]
+[2018.11.08-17.22.29:468][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metallo_RAL_7024" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Metallo_RAL_7024_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.29:668][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Metallo_RAL_7024_Auto1AA874AE045D8924224E09D9039D8ACC0.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Metallo_RAL_7024_Auto1.uasset'
+[2018.11.08-17.22.29:835][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tappeto] ([1] browsable assets)...
+[2018.11.08-17.22.29:853][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Tappeto.Tappeto]
+[2018.11.08-17.22.29:853][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tappeto]
+[2018.11.08-17.22.29:853][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tappeto" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Tappeto_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.30:024][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Tappeto_Auto1CE51DBE94B32159ACB0B9C9E6A9A699A.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Tappeto_Auto1.uasset'
+[2018.11.08-17.22.30:157][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RAL_70242] ([1] browsable assets)...
+[2018.11.08-17.22.30:176][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RAL_70242.RAL_70242]
+[2018.11.08-17.22.30:176][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/RAL_70242]
+[2018.11.08-17.22.30:176][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RAL_70242" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/RAL_70242_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.30:356][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/RAL_70242_Auto1C9740F604BA4AD65AAB9D0931F6C334D.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/RAL_70242_Auto1.uasset'
+[2018.11.08-17.22.30:503][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Schermo_Jog] ([1] browsable assets)...
+[2018.11.08-17.22.30:522][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Schermo_Jog.Schermo_Jog]
+[2018.11.08-17.22.30:522][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Schermo_Jog]
+[2018.11.08-17.22.30:522][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Schermo_Jog" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Schermo_Jog_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.30:710][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Schermo_Jog_Auto1DCF5166B4998426FCB6EF2B9BD543E55.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Schermo_Jog_Auto1.uasset'
+[2018.11.08-17.22.30:844][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alluminio_Sat] ([1] browsable assets)...
+[2018.11.08-17.22.30:860][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Alluminio_Sat.Alluminio_Sat]
+[2018.11.08-17.22.30:861][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alluminio_Sat]
+[2018.11.08-17.22.30:861][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alluminio_Sat" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Alluminio_Sat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.31:037][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Alluminio_Sat_Auto17956A07D47264D3176B0559615039828.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Alluminio_Sat_Auto1.uasset'
+[2018.11.08-17.22.31:167][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RAL_7024] ([1] browsable assets)...
+[2018.11.08-17.22.31:184][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RAL_7024.RAL_7024]
+[2018.11.08-17.22.31:184][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/RAL_7024]
+[2018.11.08-17.22.31:184][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RAL_7024" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/RAL_7024_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.31:359][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/RAL_7024_Auto1E06232C745099A34A4ABFF84E3058389.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/RAL_7024_Auto1.uasset'
+[2018.11.08-17.22.31:498][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/trasp] ([1] browsable assets)...
+[2018.11.08-17.22.31:515][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/trasp.trasp]
+[2018.11.08-17.22.31:515][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/trasp]
+[2018.11.08-17.22.31:515][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trasp" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/trasp_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.31:695][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/trasp_Auto1FCB40ADB49894B6112801DB1A86DB492.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/trasp_Auto1.uasset'
+[2018.11.08-17.22.31:826][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bianco2] ([1] browsable assets)...
+[2018.11.08-17.22.31:846][702]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bianco2.Bianco2]
+[2018.11.08-17.22.31:846][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bianco2]
+[2018.11.08-17.22.31:846][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bianco2" FILE="W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Bianco2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-17.22.32:015][702]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Bianco2_Auto10EAD4AFA4980BAAB86B449B3101813D9.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Autosaves/Game/Bianco2_Auto1.uasset'
+[2018.11.08-17.22.32:128][702]LogFileHelpers: Auto-saving content packages took 5.951
+[2018.11.08-17.22.35:116][839]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-17.22.35:142][839]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-17.22.37:474][910]LogActorFactory: Actor Factory created Treadmill
+[2018.11.08-17.22.38:404][910]LogActorFactory: Actor Factory created Treadmill
+[2018.11.08-17.22.39:795][911]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.11.08-17.22.43:219][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-17.22.59:558][966]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.580 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.08-17.23.03:460][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-17.23.06:384][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-17.23.09:288][298]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.11.08-17.23.11:241][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-17.23.27:292][298]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.08-17.23.27:809][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestSource" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Maps/TestSource.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.08-17.23.30:591][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/TestSourceF76392474E9FAA1CE072F8BAC89D0FEB.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Maps/TestSource.umap'
+[2018.11.08-17.23.32:773][298]LogFileHelpers: Saving map 'TestSource' took 5.455
+[2018.11.08-17.23.32:833][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Treadmill" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Treadmill.uasset" SILENT=true
+[2018.11.08-17.23.33:321][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Treadmill2B05C5D24BC464EBEA978AB9418DB81B.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Treadmill.uasset'
+[2018.11.08-17.23.35:252][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TGmet_2" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/TGmet_2.uasset" SILENT=true
+[2018.11.08-17.23.35:440][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/TGmet_2E80FA8534607FFCB04F9B89B0427DB55.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/TGmet_2.uasset'
+[2018.11.08-17.23.36:914][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Met11" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Met11.uasset" SILENT=true
+[2018.11.08-17.23.37:084][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Met1146772928465C08AED3D9D298640A0111.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Met11.uasset'
+[2018.11.08-17.23.38:982][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PGrey_Md" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/PGrey_Md.uasset" SILENT=true
+[2018.11.08-17.23.39:183][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/PGrey_MdF61B54CE4BCC00BD450D03B9C70F932D.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/PGrey_Md.uasset'
+[2018.11.08-17.23.40:541][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PGrey_Cl" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/PGrey_Cl.uasset" SILENT=true
+[2018.11.08-17.23.40:723][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/PGrey_Cl62F58D2048C61811EE18F2AD034E7713.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/PGrey_Cl.uasset'
+[2018.11.08-17.23.42:219][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PBlack" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/PBlack.uasset" SILENT=true
+[2018.11.08-17.23.42:392][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/PBlackC0F3ACB141D175EF559B8BA37D995288.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/PBlack.uasset'
+[2018.11.08-17.23.43:888][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Red" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Red.uasset" SILENT=true
+[2018.11.08-17.23.44:054][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Red7693340243AFD9DDC9CC20943D3745AE.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Red.uasset'
+[2018.11.08-17.23.45:471][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metallo_RAL_7024" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Metallo_RAL_7024.uasset" SILENT=true
+[2018.11.08-17.23.45:679][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Metallo_RAL_7024B543126F41F8EEF73D63B9BCCF2C03E5.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Metallo_RAL_7024.uasset'
+[2018.11.08-17.23.47:067][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tappeto" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Tappeto.uasset" SILENT=true
+[2018.11.08-17.23.47:243][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Tappeto98B257A4475077FDE41C628EDD0F72E9.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Tappeto.uasset'
+[2018.11.08-17.23.48:699][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RAL_70242" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/RAL_70242.uasset" SILENT=true
+[2018.11.08-17.23.48:879][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/RAL_70242CEA67EB14D02899AF95DCEB7F186BBBE.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/RAL_70242.uasset'
+[2018.11.08-17.23.50:283][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Schermo_Jog" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Schermo_Jog.uasset" SILENT=true
+[2018.11.08-17.23.50:454][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Schermo_JogB117A671403D3F75875C5695F07D5194.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Schermo_Jog.uasset'
+[2018.11.08-17.23.51:876][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alluminio_Sat" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Alluminio_Sat.uasset" SILENT=true
+[2018.11.08-17.23.52:053][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Alluminio_SatB0AB5F804CEF32D1BC8E92A75554D1E0.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Alluminio_Sat.uasset'
+[2018.11.08-17.23.53:493][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RAL_7024" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/RAL_7024.uasset" SILENT=true
+[2018.11.08-17.23.53:656][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/RAL_7024A7B1847B48B89CBB348BA08C4C48F473.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/RAL_7024.uasset'
+[2018.11.08-17.23.55:114][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trasp" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/trasp.uasset" SILENT=true
+[2018.11.08-17.23.55:308][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/trasp7833D2D7404E0ACB62EB2D8E1EA6D578.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/trasp.uasset'
+[2018.11.08-17.23.57:184][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bianco2" FILE="W:/WarHammer_Blood_Witch/SourceTest/Content/Bianco2.uasset" SILENT=true
+[2018.11.08-17.23.57:362][298]LogSavePackage: Moving 'W:/WarHammer_Blood_Witch/SourceTest/Saved/Bianco29217DC2B4F7E08021DE25BA718BAEE42.tmp' to 'W:/WarHammer_Blood_Witch/SourceTest/Content/Bianco2.uasset'
+[2018.11.08-17.24.00:299][420]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.11.08-17.24.18:348][235]SourceControl: fatal: B:/Unreal_Engine/UE_4.21/Engine/Content: 'B:/Unreal_Engine/UE_4.21/Engine/Content' is outside repository
+[2018.11.08-17.24.32:975][235]LogSlate: Window 'Submit Files' being destroyed
+[2018.11.08-17.24.44:163][235]LogSourceControl: commit successful: [master faf07ff] Added treadmill
+[2018.11.08-17.24.46:509][235]SourceControl: [master faf07ff] Added treadmill
+[2018.11.08-17.24.46:509][235]SourceControl:  16 files changed, 0 insertions(+), 0 deletions(-)
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Alluminio_Sat.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Bianco2.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Maps/TestSource.umap
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Met11.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Metallo_RAL_7024.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/PBlack.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/PGrey_Cl.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/PGrey_Md.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/RAL_7024.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/RAL_70242.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Red.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Schermo_Jog.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/TGmet_2.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Tappeto.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/Treadmill.uasset
+[2018.11.08-17.24.46:509][235]SourceControl:  create mode 100644 SourceTest/Content/trasp.uasset
+[2018.11.08-17.24.46:516][235]SourceControl: Commited [master faf07ff] Added treadmill.
